@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CSC256Public.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CSC256Public.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/test/unit/test_whats_my_name.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
@@ -125,6 +122,7 @@
       <workItem from="1600395258556" duration="675000" />
       <workItem from="1600395955940" duration="191000" />
       <workItem from="1600396195446" duration="349000" />
+      <workItem from="1600406205859" duration="56000" />
     </task>
     <servers />
   </component>
@@ -160,14 +158,15 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600396545727" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1600395927711">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1600406225656">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600395927711" />
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1600406225656" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CSC256PublicGitRemote$pytest_for_test_whats_my_name_test_my_name_is.coverage" NAME="pytest for test_whats_my_name.test_my_name_is Coverage Results" MODIFIED="1600396527355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gitremote/test/unit" />
     <SUITE FILE_PATH="coverage/CSC256Public$pytest_for_test_whats_my_name_test_my_name_is.coverage" NAME="pytest for test_whats_my_name.test_my_name_is Coverage Results" MODIFIED="1562955458462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gitremote/test/unit" />
+    <SUITE FILE_PATH="coverage/gitremote$pytest_for_test_whats_my_name_test_my_name_is.coverage" NAME="pytest for test_whats_my_name.test_my_name_is Coverage Results" MODIFIED="1600406248584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gitremote/test/unit" />
     <SUITE FILE_PATH="coverage/CSC256PublicGitRemote$whats_my_name.coverage" NAME="whats_my_name Coverage Results" MODIFIED="1600396483044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gitremote" />
   </component>
 </project>
